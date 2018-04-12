@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://kgerst.github.io/community//about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kgerst.github.io/community//contact</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kgerst.github.io/community//resources/app-camp-for-girls/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kgerst.github.io/community//tags/ios/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kgerst.github.io/community//tags/camp/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kgerst.github.io/community//tags/minneapolis/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kgerst.github.io/community//tags/middle-level/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kgerst.github.io/community//tags/girls/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kgerst.github.io/community//tags/gender-non-conforming/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kgerst.github.io/community//categories/classes-camps/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kgerst.github.io/community//categories/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kgerst.github.io/community//</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://kgerst.github.io/community//tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>

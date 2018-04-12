@@ -1,0 +1,2 @@
+webpackJsonp([0xa2868bfb69fc],{376:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Kim Gerst",subtitle:"Ideas and Resources",copyright:"© All rights reserved.",menu:[{label:"All Resources",path:"/"},{label:"Categories",path:"/categories/"},{label:"Tags",path:"/tags/"}],author:{name:"Kim Gerst",email:"kimgerst@gmail.com",twitter:"ksgerst",github:"kgerst",linkedin:"kimgerst"}}}},pathContext:{}}}});
+//# sourceMappingURL=path---404-html-b8dda289ab913a4cbe0c.js.map
