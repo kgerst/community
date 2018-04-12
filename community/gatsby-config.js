@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com',
+    url: 'https://kgerst.github.io/community/',
+    pathPrefix: `/community`,
     title: 'Kim Gerst',
     subtitle: 'Ideas and Resources',
     copyright: '© All rights reserved.',
